@@ -5,4 +5,7 @@ using scikit-learn, numpy, etc
 
 ## properties
 ### Using scikit learn, 
-I used SVC, KNN, Extratreeclassifier, ETC
+with SVC, KNN, Extratreeclassifier,VotingClassifier
+
+# contact
+suwanissoonvacation@protonmail.ch
