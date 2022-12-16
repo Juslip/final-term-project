@@ -5,7 +5,13 @@ using scikit-learn, numpy, etc
 
 ## properties
 ### Using scikit learn, 
-with SVC, KNN, Extratreeclassifier,VotingClassifier
+with SVC, KNN, Extratreeclassifier,MLPClassifier,VotingClassifier
+to deal with underfitting, overfitting.
+
+## Pickle
+also i used pickle.
+check files model.pkl
 
 # contact
-suwanissoonvacation@protonmail.ch
+E-mail : suwanissoonvacation@protonmail.ch
+IG : suwanive
