@@ -7,8 +7,8 @@ using scikit-learn, numpy, etc
 https://github.com/sartajbhuvaji/brain-tumor-classification-dataset
 
 # properties
-## Using scikit learn, 
-with SVC, KNN, Extratreeclassifier,MLPClassifier,VotingClassifier
+ONLY sklearn models
+## SVC, KNN, Extratreeclassifier,MLPClassifier,VotingClassifier
 
 # contact
 E-mail : suwanive@proton.me
