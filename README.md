@@ -1,6 +1,4 @@
-# Brain Tumor Classification
-## accuracy 91%
-## only scikit-learn
+# Brain Tumor Classification | accuracy 91% | only scikit-learn
 # Authur:Yoon suwan
 it is final term project for CAU_OPENSW
 using scikit-learn, numpy, etc
